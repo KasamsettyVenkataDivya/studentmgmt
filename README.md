@@ -1,3 +1,4 @@
+Employee Management System is a RESTful web application developed using Java, Spring Boot, JDBC, and MySQL. The application provides CRUD (Create, Read, Update, Delete) operations for managing employee records through REST APIs.
 <img width="959" height="539" alt="Screenshot 2026-06-14 192128" src="https://github.com/user-attachments/assets/612a9cc1-330c-4ab0-bad2-d55c4c393896" />
 <img width="959" height="532" alt="Screenshot 2026-06-14 191610" src="https://github.com/user-attachments/assets/b41613e6-ac9b-4bf3-976a-cc81a6de3636" />
 <img width="956" height="535" alt="Screenshot 2026-06-14 192510" src="https://github.com/user-attachments/assets/8bd0abe9-a444-42c1-aaf2-9c67429d78ce" />
